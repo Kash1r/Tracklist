@@ -34,7 +34,7 @@ TrackList is a social media web application that allows users to search for song
 1. Clone the repository:
     ```sh
     git clone https://github.com/Kash1r/CS3354TrackList.git
-    TrackList
+    cd TrackList
     ```
 
 2. Install dependencies:
@@ -92,3 +92,4 @@ npm run test
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
+
